@@ -1,0 +1,6 @@
+{
+  "name": "GlobeSearch",
+  "description": "An interactive 3D Earth-glowing, AI-powered intelligent search engine with spatial context, real-time news, global insights and instant answers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
